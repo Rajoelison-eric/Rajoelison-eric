@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Welcome%20&fontSize=40&fontColor=fff&animation=fadeIn" />
+</div>
 
-<!--
-**Rajoelison-eric/Rajoelison-eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rajoelison-eric/Rajoelison-eric/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rajoelison-eric/Rajoelison-eric/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="snake en feu"
+      src="https://raw.githubusercontent.com/Rajoelison-eric/Rajoelison-eric/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+<br><br>
+<div align="center">
+  
+  ![](https://streak-stats.demolab.com/?user=Rajoelison-eric&theme=transparent&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajoelison-eric&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+</div>
+<br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Rajoelison-eric&color=blue)
+
+<br><br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mathieurand/mathieurand/main/globe.gif" width="300" />
+</div>
