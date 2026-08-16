@@ -25,6 +25,7 @@
 </div>
 <br><br>
 <div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">s
   
   ![](https://streak-stats.demolab.com/?user=Rajoelison-eric&theme=transparent&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajoelison-eric&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </div>
